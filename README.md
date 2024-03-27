@@ -57,12 +57,12 @@ Their revenue management team had decided to hire a 3rd party service provider t
 * Power BI Service
 
 # **Operations Performed**
-* Data Gathering: For getting the data sources
-* Power Query: For data cleaning and data transformation
-* Data Modelling: For creating the relationship b/w dimension and fact tables
-* Creating DAX Meausres: For creating measures/ calculated columns. Also, DAX are helpful to get most out of the data.
-* Creating Visuals and Dashboarding
-* Publishing Dashboard to Power BI Service
+* #### Data Gathering: For getting the data sources
+* #### Power Query: For data cleaning and data transformation
+* #### Data Modelling: For creating the relationship b/w dimension and fact tables
+* #### Creating DAX Measures: For creating measures/ calculated columns. Also, DAX are helpful to get most out of the data.
+* #### Creating Visuals and Dashboarding
+* #### Publishing Dashboard to Power BI Service
 
 ## **Step-1 Data Gathering and inputting into power BI App**
 Below is an overview of the dataset. It consists of three dimensions (dim) files and two fact files and the format for all the files is in .csv:
