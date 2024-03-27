@@ -161,17 +161,22 @@ Hotels who have lowest occupancy rate might not be working on their ratings or a
 If avg rating low, will impact the occupancy rate and thus number of cancellation rate % will also get higher (all being correlated with each other).
 
 Reasons of higher % cancellation of bookings-
-* Customer who might have booked hotel to secure a place and once find a better place option, they cancelled the hotel.
+* Customer who might have booked a hotel to secure a place and once find a better place option, they cancelled the hotel.
 * Once customer reaches the hotel, then they might not find the hotel/ room (before check-in or after check-in) up to the mark and cancelled it as customers always want to have a better experience!
-* Hotel might not have updated the new photos of the room, etc. Thus, updating pictures is important, especially in the world of modern technology!
+* The hotel might not have updated the new photos of the room, etc. Thus, updating pictures is important, especially in the world of modern technology!
 
 
-# ** Other Insights**
-* Highest revenue by city: Mumbai, contributing 40% of the total revenue.
-* Star performer: Atliq Exotica has generated the highest revenue of whopping 468 million.
-* Highest Average rating by city: Mumbai has the highest average rating of 4.4
-* % revenue by category (Luxury or Business): The Luxury hotel category has contributed the most by 61.2%.
-*
+# Other Insights
+* **Highest revenue by city:** Mumbai, contributing 40% of the total revenue.
+* **Star performer:** Atliq Exotica hotel of Mumbai has generated the highest revenue of a whopping 468 million.
+* **Highest Average rating by city:** Mumbai has the highest average rating of 4.4.
+* **% revenue by category (Luxury or Business):** The Luxury hotel category has contributed the most by 61.2%.
+* **Room class leader:** Elite rooms were the preferred choice among the guests as successful bookings happened from there.
+* **Platform Power:** logtrip emerged as the revenue powerhouse among the booking platforms.
+* **RevPar:** Atliq Exotica triumphed with 217K rupees (city Bangalore and room class Presidential) while Atliq Exotica in the city Hyderabad having room class elite generated the revenue per available room of 11.8K.Thus, optimizing the RevPAR for Atliq Exotica (city Hyderabad having room class elite) can help boost the overall revenue of the Atliq Grands hotel chain.
+* **ADR:** ADR generated for hotel Atliq Seasons was the highest at 16.6K rupees while Atliq Blu generated the lowest ADR of 8.7K rupees. Thus, optimizing the ADR for Atliq Blu can help in boosting the overall revenue of the Atliq Grands hotel chain.
 
+These insights are not just numbers; they are the roadmap to revitalizing AtliQ Grands' revenue strategy. With Mumbai as a revenue stronghold, targeted marketing efforts can be focused here. 
+The popularity of Elite rooms suggests a need for tailored promotions, while logtrip's dominance points to a lucrative partnership opportunity.
 
-In conclusion, data intelligence tool has unlocked a world of possibilities for AtliQ Grands. By leveraging these insights, the hotel chain can regain its competitive edge/ market share and revenue and therefore can secure its position as a leader in the luxury/business hotels category.
+In conclusion, data intelligence tool has unlocked a world of possibilities for AtliQ Grands. By leveraging these insights and using strategic moves, the hotel chain can regain its competitive edge/ market share and revenue and therefore can secure its position as a leader in the luxury/business hotels category.
