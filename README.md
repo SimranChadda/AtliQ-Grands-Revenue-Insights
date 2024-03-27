@@ -57,10 +57,14 @@ Their revenue management team had decided to hire a 3rd party service provider t
 * Power BI Service
 
 # **Operations Performed**
-* #### Data Gathering: For getting the data sources
-* #### Power Query: For data cleaning and data transformation
-* #### Data Modelling: For creating the relationship b/w dimension and fact tables
-* #### Creating DAX Measures: For creating measures/ calculated columns. Also, DAX are helpful to get most out of the data.
+* #### Data Gathering: 
+  For getting the data sources
+* #### Power Query: 
+  For data cleaning and data transformation
+* #### Data Modelling:
+  For creating the relationship b/w dimension and fact tables
+* #### Creating DAX Measures: 
+  For creating measures/ calculated columns. Also, DAX are helpful to get most out of the data.
 * #### Creating Visuals and Dashboarding
 * #### Publishing Dashboard to Power BI Service
 
