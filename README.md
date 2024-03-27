@@ -150,6 +150,7 @@ Bottom 5 Performers based on occupancy%:
 ![Bottom 5 performers](https://github.com/SimranChadda/AtliQ-Grands-Revenue-Insights/assets/54142296/08907a8c-79cd-4ee0-bfc0-5a3ab483419e)
 
 Based on Pareto's principle, 80% of problems are caused by 20% of hotels.
+
 Bottom performers hotels are the biggest problem statements and if we can solve them, the overall business can be improved
 We can see the hotels have lowest occupancy rate are in the cities of Hyderabad, Mumbai and Bangalore.
 
@@ -165,7 +166,12 @@ Reasons of higher % cancellation of bookings-
 * Hotel might not have updated the new photos of the room, etc. Thus, updating pictures is important, especially in the world of modern technology!
 
 
-
+# ** Other Insights**
+* Highest revenue by city: Mumbai, contributing 40% of the total revenue.
+* Star performer: Atliq Exotica has generated the highest revenue of whopping 468 million.
+* Highest Average rating by city: Mumbai has the highest average rating of 4.4
+* % revenue by category (Luxury or Business): The Luxury hotel category has contributed the most by 61.2%.
+*
 
 
 In conclusion, data intelligence tool has unlocked a world of possibilities for AtliQ Grands. By leveraging these insights, the hotel chain can regain its competitive edge/ market share and revenue and therefore can secure its position as a leader in the luxury/business hotels category.
